@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadingImages</string>
+    <string name="creator_name">Creator Name</string>
+    <string name="likes">Likes :</string>
+</resources>
